@@ -6,7 +6,7 @@ A weave mod built for Lunar Client, allowing the `public` to finally get their h
 
 This is to be used in tandem with [Weave](https://github.com/Weave-MC).
 
-Join The Fractal Discord server [here](https://discord.gg/FractalClient).
+Join The [Fractal Discord Server](https://discord.gg/FractalClient).
 
 
 ```js
