@@ -35,7 +35,12 @@ jobs:
     - name: Execute Fractal build
       run: ./gradlew build
 
+    - name: Create Release Tag
+      id: create_release_tag
+      run: echo ::set-output name=TAG_NAME::$(git describe --abbrev=0 --tags)
+
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: ${{ steps.create_release_tag.outputs.TAG_NAME }}
         files: build/libs/Fractal*.jar
