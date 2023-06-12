@@ -2,9 +2,9 @@
 
 ---
 
-A weave mod built for Lunar Client, allowing the `public` to finally get their hands on open source, community developed Lunar cheats.
+Fractal Client is a weave mod designed for Lunar Client, allowing the 'public' to finally access open-source, community-developed Lunar cheats.
 
-This is to be used in tandem with [Weave](https://github.com/Weave-MC).
+To use Fractal Client, you need to have [Weave](https://github.com/Weave-MC) installed.
 
 Join The [Fractal Discord Server](https://discord.gg/FractalClient).
 
