@@ -15,6 +15,13 @@ Join the Fractal discord server here: https://discord.gg/TCpVya5jQd
   minecraft   1.8.9
 ```
 
+## Incompatibilities
+
+```js
+       Raw mouse input mod
+       Raven weave
+```
+
 ## Setup
 
 ---
